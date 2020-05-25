@@ -1,7 +1,7 @@
 # Infiviz Shots Rewrite
 
 ## Setup instructions.
-clone the repo from this link ######git clone https://kiran_11@bitbucket.org/infilectweb/infiviz_rewrite.git
+clone the repo from this link ###### git clone https://kiran_11@bitbucket.org/infilectweb/infiviz_rewrite.git
 
 
 
