@@ -13,7 +13,9 @@
       - Make sure to install the device components. [Please refer this article for the refrence](https://medium.com/@hacknicity/working-with-multiple-versions-of-xcode-e331c01aa6bc).
       - ```npm install && cd ios && pod install && cd ..``` run this command to install all the npm packages and pods.
       - ```npm run ios --simulator "--iPhone11"``` the iPhone11 specifies the version of iOS device component in xcode and make sure the version is installed.
-      
+      - Xcode-File-open-
+      infiviz-rewrite-ios and open the ios folder in xcode and make sure the iOS device is connected to the macbook.
+      - xcode-Product-Destination and select your device in the list and click the top left icon :arrow_forward: .
 
 ```
 git status
