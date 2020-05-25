@@ -12,7 +12,7 @@
 
 ## Running the Project.
    - iOS 
-      - Make sure to install the device components. please refer this article for the refrence](https://medium.com/@hacknicity/working-with-multiple-versions-of-xcode-e331c01aa6bc).
+      - Make sure to install the device components. [Please refer this article for the refrence](https://medium.com/@hacknicity/working-with-multiple-versions-of-xcode-e331c01aa6bc).
 
 ```
 git status
