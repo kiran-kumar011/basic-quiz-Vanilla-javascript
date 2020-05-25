@@ -1,6 +1,6 @@
-######Infiviz Shots Rewrite
+###### Infiviz Shots Rewrite
 
-##Setup instructions.
+## Setup instructions.
 
 ```
 git status
