@@ -10,7 +10,7 @@
 
 ## Running the Project.
    - iOS 
-      - hasd
+      - [Make sure to install the device components](https://medium.com/@hacknicity/working-with-multiple-versions-of-xcode-e331c01aa6bc).
 
 ```
 git status
