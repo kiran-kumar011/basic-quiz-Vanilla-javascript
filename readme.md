@@ -1,6 +1,6 @@
-#Hello
+#####Infiviz Shots Rewrite
 
-## Hello
+##Setup instructions.
 
 ```
 git status
