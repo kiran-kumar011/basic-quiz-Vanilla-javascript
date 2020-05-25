@@ -9,7 +9,7 @@ clone the repo from this link
 - node version: v10.19.0 or v12.16.3
 - [react-native-cli: 2.0.1](https://www.npmjs.com/package/react-native-cli).
 - xcodebuild: 11.3.1
-- cocoapods: 1.8.4
+- [cocoapods: 1.8.4](https://guides.cocoapods.org/using/getting-started.html)
 
 
 
