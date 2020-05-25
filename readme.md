@@ -5,12 +5,12 @@ clone the repo from this link
 ###### git clone https://kiran_11@bitbucket.org/infilectweb/infiviz_rewrite.git
 
 ## Pre requisites
-```
-node version: v10.19.0 or v12.16.3
-[react-native-cli: 2.0.1](https://www.npmjs.com/package/react-native-cli).
-xcodebuild: 11.3.1
-cocoapods: 1.8.4
-```
+
+- node version: v10.19.0 or v12.16.3
+- [react-native-cli: 2.0.1](https://www.npmjs.com/package/react-native-cli).
+- xcodebuild: 11.3.1
+- cocoapods: 1.8.4
+
 
 
 ```
