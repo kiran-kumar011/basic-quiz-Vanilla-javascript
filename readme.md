@@ -8,7 +8,7 @@
 - [xcodebuild: 11.3.1](https://developer.apple.com/xcode/)
 - [cocoapods: 1.8.4](https://guides.cocoapods.org/using/getting-started.html)
 
-- ## Running the Project.
+## Running the Project.
    - iOS 
       - hasd
 
