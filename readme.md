@@ -1,8 +1,5 @@
 # Infiviz Shots Rewrite
 
-## Setup instructions.
-clone the repo from this link 
-###### git clone https://kiran_11@bitbucket.org/infilectweb/infiviz_rewrite.git
 
 ## Pre requisites
 
@@ -11,7 +8,9 @@ clone the repo from this link
 - [xcodebuild: 11.3.1](https://developer.apple.com/xcode/)
 - [cocoapods: 1.8.4](https://guides.cocoapods.org/using/getting-started.html)
 
-
+- ## Running the Project.
+   - iOS 
+      - hasd
 
 ```
 git status
