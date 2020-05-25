@@ -7,12 +7,11 @@
 - [react-native-cli: 2.0.1](https://www.npmjs.com/package/react-native-cli).
 - [xcodebuild: 11.3.1](https://developer.apple.com/xcode/)
 - [cocoapods: 1.8.4](https://guides.cocoapods.org/using/getting-started.html)
-- react: 16.9.0
-- react-native: 0.61.5
 
 ## Running the Project.
    - iOS 
       - Make sure to install the device components. [Please refer this article for the refrence](https://medium.com/@hacknicity/working-with-multiple-versions-of-xcode-e331c01aa6bc).
+      - ```npm install && cd ios && pod install && cd ..``` run this command to install all the npm packages and pods.
 
 ```
 git status
